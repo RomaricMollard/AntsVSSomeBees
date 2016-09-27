@@ -1,5 +1,5 @@
 # Ants VS Some Bees !
-The best tower defense of the world
+The best tower defense in the world
 
 ## Game created by
 
